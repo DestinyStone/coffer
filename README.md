@@ -37,12 +37,13 @@
    ```
    ![](img/1.jpg)
 2. 使用idea打开项目，等待maven依赖安装完毕
+
    ![](img/7.jpg)
-3. 启动DemoApplication类运行项目
+4. 启动DemoApplication类运行项目
    
    ![](img/8.jpg)
    
-4. 查看idea控制台，检查项目是否正常运行
+5. 查看idea控制台，检查项目是否正常运行
    
    ![](img/9.jpg)
 
